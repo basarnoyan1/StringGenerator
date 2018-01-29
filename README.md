@@ -1,0 +1,2 @@
+# StringGenerator
+python run.py
